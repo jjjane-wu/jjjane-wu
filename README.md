@@ -49,15 +49,6 @@ I'm a Data Scientist and MS student at **Carnegie Mellon University** (Master's 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjjane-wu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjane-wu&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-</p>
-
----
-
 ### Featured Projects
 
 | Project | Description | Stack |
@@ -65,6 +56,15 @@ I'm a Data Scientist and MS student at **Carnegie Mellon University** (Master's 
 | [🎙️ Speech Recognition](https://github.com/jjjane-wu) | Phoneme classifier with 85.7% accuracy · Kaggle Competition | PyTorch · SpecAugment · W&B |
 | [🛍️ RateMate](https://github.com/jjjane-wu/RateMate) | ETL pipeline scraping 200K+ products · sentiment analysis + comparison UI | Python · BeautifulSoup · Tkinter |
 | [⚡ Power Outage Forecasting](https://github.com/jjjane-wu/PowerOutageForecasting) | Time series forecasting for outage prediction | Python · Jupyter |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjjane-wu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjane-wu&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+</p>
 
 ---
 
