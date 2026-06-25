@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Enthusiast;Turning+Data+into+Business+Value;ML+%C2%B7+NLP+%C2%B7+Big+Data+%C2%B7+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Enthusiast;Making+Products+Count;ML+%C2%B7+NLP+%C2%B7+Big+Data" alt="Typing SVG" /></a>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 I'm a Data Scientist and MS student at **Carnegie Mellon University** (Master's in Information Systems Management – Business Intelligence & Data Analytics). I help realize business value with models, AI tools, and automation — and I make products matter.
 
-- 🎓 MS @ **Carnegie Mellon University** (GPA: 3.9/4.0; Dean's List)· BS @ **New York University** (GPA: 3.8/4.0; Dean's List all Semesters)
+- 🎓 MS @ **Carnegie Mellon University** (GPA: 3.9/4.0)· BS @ **New York University** (GPA: 3.8/4.0)
 - 💼 Previously @ **TikTok** · **United Nations Joint Staff Pension Fund** · **Xiaomi**
 - 🤖 Experienced in NLP, LLM fine-tuning, end-to-end ML pipelines, and product analytics
 - 📍 Pittsburgh, PA
