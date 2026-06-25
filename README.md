@@ -65,7 +65,6 @@ I'm a Data Scientist and MS student at **Carnegie Mellon University** (Master's 
 | [🎙️ Speech Recognition](https://github.com/jjjane-wu) | Phoneme classifier with 85.7% accuracy · Kaggle Competition | PyTorch · SpecAugment · W&B |
 | [🛍️ RateMate](https://github.com/jjjane-wu/RateMate) | ETL pipeline scraping 200K+ products · sentiment analysis + comparison UI | Python · BeautifulSoup · Tkinter |
 | [⚡ Power Outage Forecasting](https://github.com/jjjane-wu/PowerOutageForecasting) | Time series forecasting for outage prediction | Python · Jupyter |
-| [🚨 API Anomaly Detection](https://github.com/jjjane-wu) | Real-time monitoring with statistical alerting → DingTalk | Python · MySQL |
 
 ---
 
@@ -82,5 +81,3 @@ I'm a Data Scientist and MS student at **Carnegie Mellon University** (Master's 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
-
-<sub>*I help realize business value with models, AI tools, and automation — and I make products matter.*</sub>
